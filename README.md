@@ -25,5 +25,35 @@ An advanced **AI-powered chatbot** built using Amazon Lex, AWS Lambda, Twilio, a
 2. **Twilio Account**: For SMS and voice services.
 3. **Web Hosting Platform**: AWS S3, GitHub Pages, or any equivalent.
 
+## Screenshot
+
+Below is a screenshot of the chatbot interface showcasing its interaction flow:
+
+![image](https://github.com/user-attachments/assets/9f13fd0e-3a1d-4ea5-a86a-d2a16a06a1ca)
+
+---
+
+![image](https://github.com/user-attachments/assets/cfaeb9ac-4c09-4e8d-9a3f-e66766321a76)
+
+---
+
+![image](https://github.com/user-attachments/assets/a0b54fba-e04d-4390-b02d-a8ff4d43fd49)
+
+---
+
+![image](https://github.com/user-attachments/assets/85d881d8-6598-4a7c-a1c2-00ff911bbe76)
+
+---
+
+##twillio interface:
+
+![image](https://github.com/user-attachments/assets/f92596ea-8fee-494b-9a08-8a5fae24162d)
+
+
+
+
+
+
+
 
 
