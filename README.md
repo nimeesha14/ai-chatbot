@@ -47,7 +47,8 @@ Below is a screenshot of the chatbot interface showcasing its interaction flow:
 
 ##twillio interface:
 
-![image](https://github.com/user-attachments/assets/f92596ea-8fee-494b-9a08-8a5fae24162d)
+![image](https://github.com/user-attachments/assets/a0dfca0e-4240-4ed2-90cd-0db73d5dbac0)
+
 
 
 
